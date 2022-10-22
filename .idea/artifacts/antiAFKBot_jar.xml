@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="antiAFKBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/antiAFKBot_jar</output-path>
+    <root id="archive" name="antiAFKBot.jar">
+      <element id="module-output" name="antiAFKBot" />
+    </root>
+  </artifact>
+</component>
